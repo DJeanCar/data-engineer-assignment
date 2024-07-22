@@ -1,0 +1,26 @@
+area_id,park_id,park_name,date,start_time,end_time,total_time,park_conditions,other_animal_sightings,litter,temperature_weather
+A,1,Fort Tryon Park,3/1/20,3:14:00 PM,4:05:00 PM,51,Busy,"Humans, Dogs, Pigeons, Cardinals",Some,"43 degrees, sunny"
+A,2,J. Hood Wright Park,3/1/20,3:30:00 PM,4:00:00 PM,30,Calm,"Humans, Hawks, Dogs, Pigeons, Rat","Some, in trees","cold, clear"
+A,3,Highbridge Park,3/1/20,3:21:00 PM,4:15:00 PM,54,"Calm, pick-up baseball game","Humans, Dogs (3, all on leashes), Downy Woodpecker (2), Robins, Song Birds","Some, especially caught in wooded area in East, balloons in trees",43 degrees
+A,4,St. Nicholas Park,3/1/20,3:15:00 PM,3:45:00 PM,30,Calm,"Humans, Dogs","Some, backside of park","43 degrees, clear"
+A,5,Riverside Park (section near Grant Memorial),3/1/20,3:15:00 PM,3:45:00 PM,30,Calm,"Humans, Dogs",,
+A,6,Marcus Garvey Park,3/1/20,3:45:00 PM,4:15:00 PM,30,"Calm, re: humans, but a hawk is certainly not a calming presence","Hawks, Dogs, Pigeons",Abundant,"42 degrees, clear"
+B,7,Madison Square Park,3/1/20,2:30:00 PM,3:50:00 PM,80,Busy,"Humans, Dogs, Pigeons",,"43 degrees, sunny"
+B,8,Union Square Park,3/1/20,3:15:00 PM,3:45:00 PM,30,Busy,"Humans, Dogs, Pigeons",,"40 degrees, sunny"
+B,9,Stuyvesant Square Park,3/1/20,3:00:00 PM,4:00:00 PM,60,"Calm, 20Š—–30 ppl on each side","Humans, Dogs, Sparrows",Some,"45 degrees, sunny"
+B,10,Washington Square Park,3/1/20,3:20:00 PM,4:00:00 PM,40,Busy,"Humans, Dogs",None,"45 degrees, sunny with shade spots"
+B,11,Tompkins Square Park,3/1/20,3:15:00 PM,3:45:00 PM,30,,,,
+B,12,John V. Lindsay East River Park,3/1/20,3:01:00 PM,3:45:00 PM,44,Calm,"Humans (Joggers, Bikers), Dogs",,"windy, clear"
+C,13.1,Sara D. Roosevelt Park (Section Above Delancey St),3/1/20,3:30:00 PM,4:00:00 PM,30,Busy,"Humans, Dogs (Gray)",Some,"44 degrees, sunny"
+C,13.2,Sara D. Roosevelt Park (Section Below Delancey St),3/1/20,3:30:00 PM,4:00:00 PM,30,Busy,"Humans, Pigeons",Some,"43 degrees, sunny"
+C,14,Seward Park,3/1/20,3:25:00 PM,3:55:00 PM,30,Busy,"Humans, Pigeons",Some,"40 degrees, sunny"
+C,15,Corlears Hook Park,3/1/20,3:35:00 PM,4:15:00 PM,40,Calm,"Humans, Dogs, Pigeons","Some, mostly in trees","48 degrees, sunny"
+C,16,Columbus Park,3/1/20,3:47:00 PM,4:38:00 PM,51,Busy,"Humans, Dogs, Pigeons",None,"42 degrees, windy, dry, clear"
+C,17,Thomas Paine Park,3/1/20,3:35:00 PM,3:45:00 PM,10,Calm,"Humans, Dogs, Pigeons",None,"42 degrees, windy, dry, clear"
+C,18,Teardrop Park,3/1/20,3:37:00 PM,4:00:00 PM,23,,"Humans, Dogs, Fish in Pond, Geese, Half-eaten Dead Rat",Some,"43 degrees, sunny, with 20-30 mph gusts"
+C,19,City Hall Park,3/1/20,3:34:00 PM,4:04:00 PM,30,Calm,"Humans, Pigeons, Cat",None,"44 degrees, sunny"
+C,20,Battery Park,3/1/20,3:10:00 PM,3:40:00 PM,30,"\"\"\"Cool\"\" - Hank\"","Humans, Dogs, Pigeons",Some,"40-ish degrees, but sunny!"
+D,21,Msgr. McGolrick Park,3/1/20,3:25:00 PM,3:50:00 PM,25,Medium,"Humans, Dogs, Pigeons",Some,"chilly, sunny"
+D,22,McCarren Park,3/1/20,3:15:00 PM,3:45:00 PM,30,Busy,"Humans, Dogs",Some,43 degrees
+D,23,Cooper Park,3/1/20,3:06:00 PM,3:50:00 PM,44,Calm,"Humans, Dogs, Pigeons, Blackbird, Starling, Robins, Doves",Some,"45 degrees, sunny, NW wind"
+D,24,Sternberg Park,3/1/20,3:00:00 PM,3:35:00 PM,35,Calm,"Humans, Pigeons",,"36 degrees, cold, windy"

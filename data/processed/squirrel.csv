@@ -1,0 +1,434 @@
+park_id,squirrel_id,location,above_ground,specific_location,interactions_with_humans,observations,latitude,longitude
+1.0,A-01-01,Ground Plane,,,Indifferent,,40.85941,-73.93394
+1.0,A-01-02,Ground Plane,,,Indifferent,Looks skinny,40.859436,-73.93394
+1.0,A-01-03,Ground Plane,,,Indifferent,,40.859417,-73.93389
+1.0,A-01-04,Ground Plane,,,Indifferent,,40.859417,-73.93389
+1.0,A-01-05,Ground Plane,,,Indifferent,She left food,40.859493,-73.93359
+1.0,A-01-06,Ground Plane,,,Indifferent,,40.860825,-73.93287
+1.0,A-01-07,Ground Plane,,,Indifferent,,40.860226,-73.93314
+1.0,A-01-08,Above Ground,10,,Runs From,,40.859966,-73.93341
+1.0,A-01-09,Ground Plane,,,Indifferent,,40.859894,-73.93333
+1.0,A-01-10,Ground Plane,,,Indifferent,,40.859634,-73.933716
+1.0,A-01-11,Ground Plane,,,Indifferent,was intimidated by a dog,40.859577,-73.93374
+1.0,A-01-12,Ground Plane,,,Runs From,,40.85999,-73.93455
+2.0,A-02-01,Ground Plane,,,Indifferent,,40.84575,-73.9407
+2.0,A-02-02,Above Ground,2,,Indifferent,,40.845875,-73.94081
+2.0,A-02-03,Ground Plane,,,,,40.845875,-73.94081
+2.0,A-02-04,Ground Plane,,,Indifferent,,40.84609,-73.94061
+2.0,A-02-05,Ground Plane,,,Runs From,,40.84609,-73.94061
+2.0,A-02-06,Ground Plane,,,Indifferent,,40.84609,-73.94061
+2.0,A-02-07,Ground Plane,,,Runs From,,40.846222,-73.94094
+2.0,A-02-08,Ground Plane,,,Indifferent,,40.846222,-73.94094
+2.0,A-02-09,Ground Plane,,,Indifferent,,40.846195,-73.941025
+2.0,A-02-10,Ground Plane,,,Indifferent,,40.846184,-73.94061
+2.0,A-02-11,Ground Plane,,,Runs From,,40.84627,-73.94058
+2.0,A-02-12,"Above Ground, Specific Location",15,tree,Indifferent,,40.846333,-73.94037
+2.0,A-02-13,"Above Ground, Specific Location",20,tree,Indifferent,,40.846333,-73.94037
+2.0,A-02-14,Ground Plane,,,Indifferent,,40.846333,-73.94037
+2.0,A-02-15,Ground Plane,,,Indifferent,,40.84646,-73.94103
+2.0,A-02-16,"Above Ground, Specific Location",20,tree,Indifferent,,40.846416,-73.94112
+2.0,A-02-17,Ground Plane,,,Indifferent,,40.846294,-73.94113
+2.0,A-02-18,Ground Plane,,,Indifferent,,40.846066,-73.9415
+2.0,A-02-19,"Above Ground, Specific Location",2,tree,Indifferent,,40.846066,-73.9415
+2.0,A-02-20,Ground Plane,,,Indifferent,,40.847298,-73.94206
+2.0,A-02-21,Ground Plane,,,Runs From,,40.84726,-73.9416
+2.0,A-02-22,Ground Plane,,,Indifferent,,40.84719,-73.94131
+2.0,A-02-23,"Above Ground, Specific Location",2,fence,Indifferent,,40.84719,-73.94131
+2.0,A-02-24,"Above Ground, Specific Location",20,tree,Indifferent,,40.847115,-73.94093
+3.0,A-03-01,"Above Ground, Specific Location",2,in tree,Watches us from tree,#1 and #2 chasing each other,40.84118,-73.93548
+3.0,A-03-02,"Above Ground, Specific Location",2,in tree,Runs From,#1 and #2 chasing each other,40.841206,-73.93543
+3.0,A-03-03,"Above Ground, Specific Location",2,in tree,,,40.841213,-73.93483
+3.0,A-03-04,Above Ground,3,,,,40.841217,-73.934715
+3.0,A-03-05,Ground Plane,,,Runs From,"#5, #6 & #7 together in shrub area to East, a lot of acorns and Corona bottle caps on ground",40.84136,-73.93434
+3.0,A-03-06,"Above Ground, Specific Location",2,in tree,"Runs From, watchful","#5, #6 & #7 together in shrub area to East, a lot of acorns and Corona bottle caps on ground",40.841373,-73.93424
+3.0,A-03-07,"Above Ground, Specific Location",< 1,on log,Runs From,"#5, #6 & #7 together in shrub area to East, a lot of acorns and Corona bottle caps on ground",40.841373,-73.93424
+3.0,A-03-08,"Above Ground, Specific Location",3,in wall,Runs From,"#8 & #9 saw together at start of river overlook, hiding in cracks of cement wall! so cool!",40.842308,-73.93306
+3.0,A-03-09,"Above Ground, Specific Location",3,in wall,,"#8 & #9 saw together at start of river overlook, hiding in cracks of cement wall! so cool!",40.8424,-73.93298
+3.0,A-03-10,"Ground Plane, Above Ground",6���18,"Started on ground, climbed 6���18 ft.",Watching us from tree - very interested in us,"Lots of garbage, near #8 & #9",40.84251,-73.932915
+3.0,A-03-11,Above Ground,4,,"Approaches, watching us",,40.842674,-73.93279
+3.0,A-03-12,Ground Plane,,,Runs From,,40.842796,-73.933
+3.0,A-03-13,Ground Plane,,,,,,
+3.0,A-03-14,Ground Plane,,,"Runs From, watches us in short tree",Loud sparrows in tree,40.842327,-73.93427
+3.0,A-03-15,"Above Ground, Specific Location",9,in tree,,,40.842358,-73.93417
+3.0,A-03-16,Ground Plane,,,Indifferent,,40.84277,-73.93448
+4.0,A-04-01,Above Ground,,,Indifferent,Jumping between,40.817593,-73.94885
+4.0,A-04-02,Ground Plane,,,Indifferent,Chasing #3,40.81772,-73.94885
+4.0,A-04-03,Ground Plane,,,Indifferent,Being chased by #2,40.81772,-73.94891
+4.0,A-04-04,Ground Plane,,,Indifferent,,40.81771,-73.94912
+4.0,A-04-05,Ground Plane,,,Indifferent,,40.81757,-73.94893
+4.0,A-04-06,Above Ground,,,Indifferent,,40.817543,-73.94901
+4.0,A-04-07,Above Ground,,,Indifferent,,40.817543,-73.94901
+4.0,A-04-08,Ground Plane,,,Runs From,,40.81748,-73.949005
+4.0,A-04-09,Ground Plane,,,Indifferent,Wooded area,40.816685,-73.94969
+4.0,A-04-10,Ground Plane,,,Indifferent,Wooded area,40.816677,-73.94955
+4.0,A-04-11,Ground Plane,,,Indifferent,Wooded area,40.816555,-73.94961
+4.0,A-04-12,Ground Plane,,,Indifferent,Wooded area - would look but not fully approach,40.816505,-73.949585
+4.0,A-04-13,Ground Plane,,,Indifferent,,40.816425,-73.94947
+4.0,A-04-14,Ground Plane,,,Indifferent,,40.81831,-73.94895
+4.0,A-04-15,Ground Plane,,,Indifferent,,40.818264,-73.948906
+5.0,A-05-01,Ground Plane,,,Runs From,,,
+5.0,A-05-02,Ground Plane,,,Runs From,,,
+5.0,A-05-03,Ground Plane,,,Indifferent,,,
+5.0,A-05-04,Ground Plane,,,Indifferent,,,
+5.0,A-05-05,Ground Plane,,,,,,
+5.0,A-05-06,Above Ground,15,,Indifferent,,,
+5.0,A-05-07,Ground Plane,,,Indifferent,Forever wild section,,
+5.0,A-05-08,Ground Plane,,,Indifferent,,,
+5.0,A-05-09,Ground Plane,,,Indifferent,,,
+5.0,A-05-10,Ground Plane,,,Indifferent,,,
+5.0,A-05-11,Ground Plane,,,Indifferent,,,
+5.0,A-05-12,Ground Plane,,,Indifferent,,,
+5.0,A-05-13,Ground Plane,,,Indifferent,,,
+5.0,A-05-14,Ground Plane,,,Indifferent,,,
+5.0,A-05-15,Ground Plane,,,Indifferent,,,
+5.0,A-05-16,Ground Plane,,,Indifferent,,,
+5.0,A-05-17,Ground Plane,,,Okay with people,,,
+5.0,A-05-18,Ground Plane,,,Indifferent,,,
+5.0,A-05-19,"Above Ground, Specific Location",,Tree,Indifferent,,,
+5.0,A-05-20,Ground Plane,,,Indifferent,,,
+5.0,A-05-21,Ground Plane,,at tree,Indifferent,,,
+5.0,A-05-22,Ground Plane,,,,,,
+5.0,A-05-23,Ground Plane,,,,,,
+5.0,A-05-24,,,,,,,
+5.0,A-05-25,Ground Plane,,,Indifferent,,,
+5.0,A-05-26,Ground Plane,,,Indifferent,,,
+5.0,A-05-27,Ground Plane,,,Indifferent,,,
+5.0,A-05-28,Ground Plane,,,Indifferent,,,
+6.0,A-06-01,Above Ground,20���40,,Indifferent,HAWK. HAAAAAWK. All in 1 tree.,40.804913,-73.94373
+6.0,A-06-02,Above Ground,20���40,,Indifferent,HAWK. HAAAAAWK. All in 1 tree.,40.804913,-73.94373
+6.0,A-06-03,Above Ground,20���40,,Indifferent,HAWK. HAAAAAWK. All in 1 tree.,40.804913,-73.94373
+6.0,A-06-04,Above Ground,20���40,,Indifferent,HAWK. HAAAAAWK. All in 1 tree.,40.804916,-73.94373
+6.0,A-06-05,Above Ground,20���40,,Indifferent,HAWK. HAAAAAWK. All in 1 tree.,40.804916,-73.94373
+6.0,A-06-06,Above Ground,20���40,,Indifferent,HAWK. HAAAAAWK. All in 1 tree.,40.804913,-73.94373
+6.0,A-06-07,Above Ground,20���40,,Indifferent,HAWK. HAAAAAWK. All in 1 tree.,40.804916,-73.94373
+6.0,A-06-08,Above Ground,25,,,Defending the tree from the HAAAAWK. The bravest.,40.804913,-73.94374
+6.0,A-06-09,"Above Ground, Specific Location",2���6,small trees,Indifferent,"2 were chasing each other through some short trees, others just sat",40.804703,-73.944115
+6.0,A-06-10,"Above Ground, Specific Location",2���6,small trees,Indifferent,"2 were chasing each other through some short trees, others just sat",40.804745,-73.94374
+6.0,A-06-11,"Above Ground, Specific Location",2���6,small trees,Indifferent,"2 were chasing each other through some short trees, others just sat",40.804913,-73.94408
+6.0,A-06-12,"Above Ground, Specific Location",2���6,small trees,Indifferent,"2 were chasing each other through some short trees, others just sat",40.80473,-73.94405
+6.0,A-06-13,Above Ground,4...3...2...1,,,"Slid down a signpost while spinning. Other squirrels flung leaves at it, cheering.",40.804714,-73.94403
+6.0,A-06-14,Above Ground,15,,,Too far to observe human interactions,40.80461,-73.94383
+6.0,A-06-15,Above Ground,15,,,Too far to observe human interactions,40.804565,-73.943825
+6.0,A-06-16,Ground Plane,,,,Ran up the the 3rd baseline of a Little League field. Wrong way!,40.804253,-73.94412
+6.0,A-06-17,Ground Plane,,,,Scampered across path,40.803757,-73.94433
+6.0,A-06-18,Above Ground,4,,Indifferent,,40.803616,-73.944466
+6.0,A-06-19,Above Ground,4,,Indifferent,,40.803413,-73.94421
+6.0,A-06-20,Above Ground,4,,Indifferent,,40.80338,-73.944145
+6.0,A-06-21,Above Ground,4,,Indifferent,,40.80339,-73.94423
+6.0,A-06-22,Above Ground,,,"Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1���8. All gray.,40.803795,-73.944
+6.0,A-06-23,Above Ground,,,"Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1���8. All gray.,40.803795,-73.944
+6.0,A-06-24,Above Ground,,,"Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1���8. All gray.,40.803795,-73.944
+6.0,A-06-25,Above Ground,,,"Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1���8. All gray.,40.803795,-73.94401
+6.0,A-06-26,Above Ground,,,"Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1���8. All gray.,40.803795,-73.944
+6.0,A-06-27,Above Ground,,,"Indifferent, Preoccupied by HAAWK",HAWK. Same scene as 1���8. All gray.,40.803795,-73.944
+6.0,A-06-28,Above Ground,3,,Indifferent,,40.80362,-73.94407
+6.0,A-06-29,Above Ground,6,,Runs From,,40.80352,-73.94363
+6.0,A-06-30,Above Ground,6,,Runs From,,40.80351,-73.943665
+6.0,A-06-31,Above Ground,25,,,,40.80398,-73.94333
+6.0,A-06-32,Above Ground,25,,,,40.804123,-73.943405
+6.0,A-06-33,Above Ground,25,,,Cleaning himself like a cat would.,40.80398,-73.943275
+6.0,A-06-34,Above Ground,4,,Runs From,,40.80488,-73.94278
+7.0,B-07-01,Ground Plane,,,Indifferent,Scar on forehead,40.74145,-73.987885
+7.0,B-07-02,"Above Ground, Specific Location",30,in a tree,,,40.742256,-73.987434
+7.0,B-07-03,Ground Plane,,,Indifferent,,40.742558,-73.98697
+7.0,B-07-04,"Above Ground, Specific Location",10,in tree,,,40.74279,-73.987045
+7.0,B-07-05,"Ground Plane, Specific Location",,Farragut Lawn,Indifferent,"Many pigeons lounging on lawn, tourist taking picture",40.74288,-73.98766
+7.0,B-07-06,"Above Ground, Specific Location",15,in old tree (oval lawn),Indifferent,#6 & #7 in same tree,40.74242,-73.98808
+7.0,B-07-07,"Above Ground, Specific Location",20,in old tree (oval lawn),Indifferent,"#6 & #7 in same tree - In general, visitors/people are trying to coax squirrels and take pictures. They are delighted to see squirrels.",40.74242,-73.98808
+7.0,B-07-08,"Ground Plane, Specific Location",,base of tree,Indifferent,Dog owners encouraging dogs to chase squirrels,40.742805,-73.988434
+7.0,B-07-09,"Ground Plane, Specific Location",,base of tree,Indifferent,Ran from base of tree to lawn about 20 feet away in search of food,40.741528,-73.98833
+7.0,B-07-10,"Above Ground, Specific Location",10,in tree,Indifferent,"First spotted in tree, then climbed down. Squirrel was small in stature.",40.741806,-73.98845
+7.0,B-07-11,"Ground Plane, Above Ground",1,on bench,Indifferent,"First seen on bench. Then jumped to ground, ran across path and onto lawn in search of food.",40.741863,-73.9888
+8.0,B-08-01,Ground Plane,,,Friendly,,40.73598,-73.99062
+8.0,B-08-02,Ground Plane,,,Indifferent,,40.735847,-73.99011
+8.0,B-08-03,Ground Plane,,,Indifferent,,40.735897,-73.99041
+8.0,B-08-04,Ground Plane,,,Indifferent,,40.73579,-73.99074
+8.0,B-08-05,Ground Plane,,,Indifferent,,40.735943,-73.99063
+8.0,B-08-06,"Above Ground, Specific Location",,in tree,,,40.73566,-73.99035
+8.0,B-08-07,"Above Ground, Specific Location",,in tree,,Baby smaller,40.735638,-73.990425
+8.0,B-08-08,,,,,Baby smaller,40.73566,-73.99035
+8.0,B-08-09,,,,Runs From,,40.735588,-73.990364
+8.0,B-08-10,Ground Plane,,,"Indifferent, Staring",,40.73542,-73.990456
+8.0,B-08-11,Ground Plane,,,"Indifferent, Runs From (kids)",Ran away from kids and climbed up the tree,40.735516,-73.99033
+8.0,B-08-12,Ground Plane,,,,Big,40.735947,-73.990204
+8.0,B-08-13,,,,,Big,40.735947,-73.99023
+8.0,B-08-14,Ground Plane,,,,Big and chubby,40.73604,-73.98966
+8.0,B-08-15,Ground Plane,,,,,40.73618,-73.990685
+8.0,B-08-16,Ground Plane,,,,,40.736298,-73.99056
+9.0,B-09-01,Ground Plane,,,Indifferent,Found nut and moved into tree,40.733753,-73.98368
+9.0,B-09-02,Ground Plane,,,Indifferent,,40.733646,-73.98348
+9.0,B-09-03,Ground Plane,,,Indifferent,,40.73363,-73.98342
+9.0,B-09-04,Ground Plane,,,Runs From,,40.733547,-73.98326
+9.0,B-09-05,Above Ground,30,,,,40.73359,-73.98326
+9.0,B-09-06,Above Ground,15,,Indifferent,,40.733646,-73.98429
+9.0,B-09-07,Ground Plane,,,Approaches,"Curious, thinks we have food",40.733738,-73.98438
+9.0,B-09-08,Ground Plane,,,Indifferent,Being chased by #9,40.7335,-73.98442
+9.0,B-09-09,Ground Plane,,,Indifferent,Chasing #8,40.733574,-73.98439
+9.0,B-09-10,Ground Plane,,,Approaches,Expected food,40.733505,-73.98455
+9.0,B-09-11,Above Ground,20,,Indifferent,Juvenile? Playing with #12 in tree,40.73362,-73.98471
+9.0,B-09-12,Above Ground,20,,Indifferent,Juvenile? Playing with #11 in tree,40.733646,-73.984634
+9.0,B-09-13,Above Ground,40,,,,40.733738,-73.98464
+9.0,B-09-14,Above Ground,10,,Approaches,,40.733932,-73.98461
+9.0,B-09-15,Above Ground,30,,,Far away,40.734013,-73.98446
+9.0,B-09-16,"Above Ground, Specific Location",60,in tree,,,40.734222,-73.9844
+9.0,B-09-17,"Above Ground, Specific Location",15,in tree,,,40.73408,-73.98432
+9.0,B-09-18,Ground Plane,,,Indifferent,,40.73403,-73.9842
+9.0,B-09-19,"Above Ground, Specific Location",40,in tree,,,40.734203,-73.984245
+9.0,B-09-20,Ground Plane,,,Indifferent,,40.734314,-73.98423
+9.0,B-09-21,"Above Ground, Specific Location",30,in tree,,,40.73426,-73.98428
+9.0,B-09-22,"Above Ground, Specific Location",30,in tree,,,40.734142,-73.98406
+9.0,B-09-23,Ground Plane,,,Indifferent,,40.734337,-73.98404
+9.0,B-09-24,Ground Plane,,,Indifferent,,40.734383,-73.984116
+9.0,B-09-25,Ground Plane,,,Indifferent,,40.734356,-73.98406
+10.0,B-10-01,Ground Plane,,,Indifferent,Sun,40.7307,-73.99582
+10.0,B-10-02,Ground Plane,,,Indifferent,,40.730637,-73.99578
+10.0,B-10-03,Ground Plane,,,Indifferent,,40.73053,-73.99589
+10.0,B-10-04,Ground Plane,,,Indifferent,,40.730392,-73.99601
+10.0,B-10-05,,,,Indifferent,,40.730343,-73.996056
+10.0,B-10-06,,,,Indifferent,People eating at bench with dog,40.7303,-73.99611
+10.0,B-10-07,,,,Indifferent,,40.730247,-73.99618
+10.0,B-10-08,,,,Indifferent,,40.730232,-73.99614
+10.0,B-10-09,Ground Plane,,,Indifferent,,40.730225,-73.99613
+10.0,B-10-10,,,,Indifferent,Shady,40.730076,-73.99628
+10.0,B-10-11,Above Ground,20,,Indifferent,In squirrel house (pic). Someone is trying to feed squirrel in house.,,
+10.0,B-10-12,Above Ground,25,,Indifferent,,,
+10.0,B-10-13,Ground Plane,,,Indifferent,Chasing #15,,
+10.0,B-10-14,"Above Ground, Specific Location",15,in tree,Indifferent,,,
+10.0,B-10-15,,,,Indifferent,Being chased by #13,40.72986,-73.99684
+10.0,B-10-16,,,,Indifferent,,40.72985,-73.99678
+10.0,B-10-17,,,,Indifferent,,40.72982,-73.99682
+10.0,B-10-18,,,,Indifferent,,40.72981,-73.996765
+10.0,B-10-19,,,,Indifferent,,40.72994,-73.99707
+10.0,B-10-20,Ground Plane,,,Indifferent,,40.729977,-73.997154
+10.0,B-10-21,Ground Plane,,,Indifferent,,40.72996,-73.99708
+10.0,B-10-22,Ground Plane,,,Indifferent,,40.729927,-73.99704
+10.0,B-10-23,Ground Plane,,,Indifferent,,40.72999,-73.99711
+10.0,B-10-24,Ground Plane,,,Indifferent,,40.72998,-73.99703
+10.0,B-10-25,,,,Indifferent,,40.730316,-73.997215
+10.0,B-10-26,,,,Indifferent,,40.7303,-73.99725
+10.0,B-10-27,,,,Indifferent,,40.730335,-73.99759
+10.0,B-10-28,,,,Indifferent,,40.73041,-73.99759
+10.0,B-10-29,,,,Indifferent,,40.730396,-73.997536
+10.0,B-10-30,"Above Ground, Specific Location",,tree,Indifferent,,40.73041,-73.997765
+10.0,B-10-31,,,,Indifferent,,40.73103,-73.99912
+10.0,B-10-32,"Above Ground, Specific Location",,in tree high,Indifferent,,40.731503,-73.99898
+10.0,B-10-33,"Above Ground, Specific Location",,in tree high,Indifferent,,40.73155,-73.99884
+10.0,B-10-34,"Above Ground, Specific Location",,in tree high,Indifferent,,40.73161,-73.998924
+10.0,B-10-35,"Above Ground, Specific Location",,in tree high,Indifferent,,40.731503,-73.999016
+10.0,B-10-36,"Above Ground, Specific Location",,"tree canopy, low down",Indifferent,,40.731552,-73.99879
+10.0,B-10-37,"Above Ground, Specific Location",,tree high,Indifferent,,40.731953,-73.99865
+10.0,B-10-38,"Above Ground, Specific Location",,tree high,Indifferent,,40.731937,-73.9986
+10.0,B-10-39,"Above Ground, Specific Location",,tree low,Indifferent,,40.732002,-73.99849
+10.0,B-10-40,Ground Plane,,,Indifferent,Busy area,40.731976,-73.99848
+10.0,B-10-41,,,,Indifferent,,40.73186,-73.99812
+10.0,B-10-42,,,,Indifferent,,40.731804,-73.998
+10.0,B-10-43,"Above Ground, Specific Location",,tree,Indifferent,,40.731747,-73.997856
+10.0,B-10-44,"Above Ground, Specific Location",,tree,Indifferent,,40.731667,-73.99775
+10.0,B-10-45,"Above Ground, Specific Location",,tree,Indifferent,,40.73155,-73.99758
+10.0,B-10-46,"Above Ground, Specific Location",,tree high,Indifferent,,40.731388,-73.99723
+10.0,B-10-47,,,,Indifferent,Sun,40.7312,-73.9968
+10.0,B-10-48,"Above Ground, Specific Location",,small tree,Indifferent,,40.731117,-73.99666
+10.0,B-10-49,Specific Location,,on bench,Indifferent,,40.731102,-73.9966
+10.0,B-10-50,,,,Indifferent,,40.73092,-73.99624
+10.0,B-10-51,,,,Indifferent,,40.73078,-73.99602
+11.0,B-11-01,Specific Location,,Tree,Runs From,"Nut in mouth, very fast moving",,
+11.0,B-11-02,Ground Plane,,,Indifferent,,,
+11.0,B-11-03,Ground Plane,,,Indifferent,,,
+11.0,B-11-04,Ground Plane,,,Indifferent,,,
+11.0,B-11-05,Ground Plane,,,Indifferent,,,
+11.0,B-11-06,Ground Plane,,,Indifferent,,,
+11.0,B-11-07,Ground Plane,,,Indifferent,,,
+11.0,B-11-08,Above Ground,20,,Indifferent,,,
+11.0,B-11-09,Ground Plane,,,Indifferent,,,
+11.0,B-11-10,Above Ground,30,,Indifferent,,,
+11.0,B-11-11,Above Ground,30,,Indifferent,,,
+11.0,B-11-12,Ground Plane,,,Indifferent,,,
+11.0,B-11-13,Ground Plane,,,Indifferent,,,
+11.0,B-11-14,Ground Plane,,,,,,
+11.0,B-11-15,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-16,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-17,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-18,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-19,Ground Plane,,,Indifferent,,,
+11.0,B-11-20,Ground Plane,,,Indifferent,,,
+11.0,B-11-21,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-22,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-23,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-24,Specific Location,,Tree,Approaches,,,
+11.0,B-11-25,Ground Plane,,,Approaches,,,
+11.0,B-11-26,Ground Plane,,,Approaches,,,
+11.0,B-11-27,Ground Plane,,,Approaches,,,
+11.0,B-11-28,Ground Plane,,,Approaches,,,
+11.0,B-11-29,Ground Plane,,,Approaches,,,
+11.0,B-11-30,Ground Plane,,,Approaches,,,
+11.0,B-11-31,Ground Plane,,,,,,
+11.0,B-11-32,Ground Plane,,,Approaches,,,
+11.0,B-11-33,Specific Location,,Tree,Approaches,,,
+11.0,B-11-34,Specific Location,,Tree,Approaches,,,
+11.0,B-11-35,Ground Plane,,,Indifferent,,,
+11.0,B-11-36,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-37,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-38,Ground Plane,,,Indifferent,,,
+11.0,B-11-39,Ground Plane,,,Indifferent,,,
+11.0,B-11-40,Ground Plane,,,Indifferent,,,
+11.0,B-11-41,Ground Plane,,,Indifferent,,,
+11.0,B-11-42,Ground Plane,,,Indifferent,,,
+11.0,B-11-43,Ground Plane,,,Indifferent,,,
+11.0,B-11-44,Ground Plane,,,Indifferent,,,
+11.0,B-11-45,Ground Plane,,,Indifferent,,,
+11.0,B-11-46,Ground Plane,,,Indifferent,,,
+11.0,B-11-47,Ground Plane,,,Indifferent,,,
+11.0,B-11-48,Ground Plane,,,Indifferent,They (#48 & #49) are fat.,,
+11.0,B-11-49,Ground Plane,,,Indifferent,They (#48 & #49) are fat.,,
+11.0,B-11-50,Ground Plane,,,Indifferent,,,
+11.0,B-11-51,Ground Plane,,,Indifferent,,,
+11.0,B-11-52,Ground Plane,,,Indifferent,,,
+11.0,B-11-53,Ground Plane,,,Indifferent,,,
+11.0,B-11-54,Specific Location,,Tree,Indifferent,,,
+11.0,B-11-55,Specific Location,,Tree,,,,
+11.0,B-11-56,Specific Location,,Tree,,,,
+11.0,B-11-57,Specific Location,,Tree,,,,
+11.0,B-11-58,Ground Plane,,,,,,
+11.0,B-11-59,Ground Plane,,,,,,
+12.0,B-12-01,Ground Plane,,,Indifferent,Nibbling on shrubs?,40.72574,-73.97211
+12.0,B-12-02,Ground Plane,,,,,40.722614,-73.97289
+12.0,B-12-03,"Ground Plane, Above Ground",,,Approaches,Siblings? (with #4) Playing (with #4) in fenced yard,40.72263,-73.973
+12.0,B-12-04,"Ground Plane, Above Ground",,,,Siblings? (with #3) Playing (with #3) in fenced yard,40.72263,-73.97311
+12.0,B-12-05,Ground Plane,,,Approaches,,40.722614,-73.97303
+12.0,B-12-06,Ground Plane,,,Approaches,,40.72217,-73.97272
+12.0,B-12-07,"Ground Plane, Above Ground",8,,Indifferent,,40.71938,-73.9735
+12.0,B-12-08,"Ground Plane, Above Ground",8,,Indifferent,,40.71935,-73.97344
+12.0,B-12-09,"Above Ground, Specific Location",12,in a tree,,,40.721924,-73.97412
+12.0,B-12-10,Ground Plane,,,Approaches,,40.72401,-73.97313
+12.0,B-12-11,Ground Plane,,,Indifferent,Was very close to a dog and hid in a tree,40.72461,-73.97284
+12.0,B-12-12,Ground Plane,,,Runs From,,40.724773,-73.97275
+14.0,C-14-01,Ground Plane,,,Runs From,,40.715416,-73.98957
+14.0,C-14-02,Ground Plane,,,Indifferent,"Bushier and plump, big tail",40.715485,-73.989296
+14.0,C-14-03,Ground Plane,,,Runs From,,40.71475,-73.98958
+14.0,C-14-04,Ground Plane,,,Approaches,Looking to us for food! Climbed tree when we did not have any to give.,40.71468,-73.98978
+14.0,C-14-05,"Ground Plane, Above Ground",9,,Approaches,"Skinny tail, lots of digging, found an acorn and is eating",40.714848,-73.98968
+14.0,C-14-06,Ground Plane,,,Indifferent,"Medium bushy, maybe a little younger, agile, sprightly",40.715034,-73.98961
+14.0,C-14-07,Ground Plane,,,Indifferent,Too quick,40.715206,-73.98953
+15.0,C-15-01,Above Ground,20,,Runs From,Frantically zig-zagging whilst clutching a mid-afternoon snack,40.71216,-73.979416
+15.0,C-15-02,,,,Indifferent,Digging in leaves carelessly,40.7122,-73.97952
+15.0,C-15-03,,,,,Multiple nut dives into the leaves; mostly successful,40.712116,-73.97968
+15.0,C-15-04,,,,,Playing tag with #5,40.712177,-73.979774
+15.0,C-15-05,,,,,Playing tag with #4,40.712215,-73.97986
+15.0,C-15-06,Above Ground,15,,,,40.712223,-73.97967
+15.0,C-15-07,Above Ground,25,,,,40.71224,-73.979744
+15.0,C-15-08,,,,,Leaping from branch to branch,40.711926,-73.97966
+15.0,C-15-09,Above Ground,8,,,Meandering among the branches,40.711864,-73.97976
+15.0,C-15-10,Above Ground,8,,Approaches,"Came by to make sure we had proper Sighter buttons, looks like a Gerald",40.71174,-73.98054
+15.0,C-15-11,Specific Location,,Handrail,Approaches,Timidly approached but ran from a passing pooch,40.71144,-73.978355
+15.0,C-15-12,Above Ground,15,,Defensive,Very upset that we spotted him accessing his tree-hole stash,40.711315,-73.97834
+15.0,C-15-13,"Ground Plane, Above Ground",30,,,"#13, #14 & #15: Scattering and teasing a Shih Tzu that chased them, runs from dog",40.71142,73.97777
+15.0,C-15-14,"Ground Plane, Above Ground",30,,,"#13, #14 & #15: Scattering and teasing a Shih Tzu that chased them, runs from dog",40.711422,-73.97769
+15.0,C-15-15,"Ground Plane, Above Ground",30,,,"#13, #14 & #15: Scattering and teasing a Shih Tzu that chased them, runs from dog",40.71141,-73.97772
+15.0,C-15-16,Above Ground,20���30,,Indifferent,So curious! A unique color and thirst for the unknown.,40.711304,-73.97759
+16.0,C-16-01,Ground Plane,,,Approaches,"Boy, Alert ��� lots of basketball close by",40.714867,-74.00024
+16.0,C-16-02,Ground Plane,,,,,40.7159,-74.00017
+16.0,C-16-03,Above Ground,25,,Indifferent,Nibbling on branches,40.714874,-74.00034
+16.0,C-16-04,Above Ground,35,,Approaches,Patchy �����bald spots,40.71578,-73.999886
+18.0,C-18-01,Ground Plane,,,Runs From,"Ran up tree and down tree, tail vibration ��� not a flag or twitch, kuk sound",40.716335,-74.01561
+19.0,C-19-01,Ground Plane,,,,,40.71283,-74.00507
+19.0,C-19-02,Above Ground,,,,Chasing #3 up the tree,40.712936,-74.00515
+19.0,C-19-03,Above Ground,,,,Chasing #2 up the tree,40.712936,-74.00515
+19.0,C-19-04,Ground Plane,,,Approaches,Very chubby cinnamon squirrel got peanuts from humans and buried them in leaves,40.712894,-74.00523
+19.0,C-19-05,Ground Plane,,,Approaches,Couldn't find a good spot to bury theirs (peanuts from humans),40.712894,-74.00523
+19.0,C-19-06,Ground Plane,,,Approaches,Being fed by people,40.71292,-74.00515
+19.0,C-19-07,Ground Plane,,,Approaches,Being fed by people,40.71292,-74.00515
+19.0,C-19-08,Ground Plane,,,Approaches,Came out to get peanut from human,40.713043,-74.0054
+19.0,C-19-09,Above Ground,5,,"Indifferent, Runs From","Perched in a bush, watched us and scampered off to eat - very little squirrel",40.712837,-74.00566
+19.0,C-19-10,"Ground Plane, Specific Location",,on City Hall back steps,Indifferent,,40.71288,-74.00582
+19.0,C-19-11,"Ground Plane, Specific Location",,by back steps of City Hall,Indifferent,Found something to eat buried in leaves and then looked for more,40.712994,-74.00597
+19.0,C-19-12,Ground Plane,,,Indifferent,,40.713043,-74.00624
+19.0,C-19-13,Above Ground,30,,Indifferent,"High up in a tree, lots of talking",40.713276,-74.006325
+19.0,C-19-14,Ground Plane,,,"Approaches, Runs From",,40.71334,-74.00631
+19.0,C-19-15,Ground Plane,,,,"Very active, darting around",40.713516,-74.00631
+19.0,C-19-16,Above Ground,3,,Watching,"Perched on knot of tree, watching us, then started foraging",40.71312,-74.00686
+19.0,C-19-17,Ground Plane,,,Indifferent,Successfully finding buried food,40.71287,-74.00688
+19.0,C-19-18,Ground Plane,,,Indifferent,"\"Rolling around in loose dirt with a \"\"swimming\"\" motion\"",40.71287,-74.00688
+20.0,C-20-01,Above Ground,5,,Interested in,#1���5 all together being fed by humans,40.704052,-74.01612
+20.0,C-20-02,Specific Location,,on fencing,,#1���5 all together being fed by humans - Hungry,40.70401,-74.016136
+20.0,C-20-03,Ground Plane,,,Indifferent,"#1���5 all together being fed by humans, Had a ton of leaves in his mouth for several minutes",40.703896,-74.01612
+20.0,C-20-04,Ground Plane,,,Cautious of,#1���5 all together being fed by humans,40.703884,-74.01616
+20.0,C-20-05,Specific Location,,on fencing,,#1���5 all together being fed by humans,40.70385,-74.016136
+20.0,C-20-06,Ground Plane,,,,Seems left out,40.70388,-74.01595
+20.0,C-20-07,Ground Plane,,,Runs From,,40.704212,-74.01586
+20.0,C-20-08,Ground Plane,,,,Obviously a couple with #9,40.704144,-74.01584
+20.0,C-20-09,Ground Plane,,,,Obviously a couple with #8,40.704174,-74.015305
+20.0,C-20-10,Ground Plane,,,Indifferent,Skinny with tiny ears,40.70417,-74.01524
+20.0,C-20-11,Ground Plane,,,Indifferent,,40.704468,-74.01477
+20.0,C-20-12,Ground Plane,,,Indifferent,,40.704453,-74.014755
+20.0,C-20-13,Ground Plane,,,Indifferent,,40.70442,-74.01474
+20.0,C-20-14,"Above Ground, Specific Location",10,in tree,Indifferent,,40.70419,-74.014854
+20.0,C-20-15,,,,,"Flirty, chasing #16, also eating urban farm debris",40.70352,-74.015274
+20.0,C-20-16,,,,,"Flirty, being chased by #15, also eating urban farm debris",40.703487,-74.01528
+20.0,C-20-17,,,,,,40.703987,-74.015205
+20.0,C-20-18,Ground Plane,,,,Looks like he has a patch of fur missing on his back,40.703384,-74.01559
+20.0,C-20-19,Above Ground,2,,,,40.70295,-74.015816
+20.0,C-20-20,Ground Plane,,,,,40.702934,-74.01578
+20.0,C-20-21,"Above Ground, Specific Location",20,in a tree,,,40.702923,-74.01663
+20.0,C-20-22,Specific Location,,on a bench,,,40.70241,-74.0159
+20.0,C-20-23,,,,,,40.702312,-74.01564
+20.0,C-20-24,Specific Location,,on fence,,,40.70247,-74.015755
+20.0,C-20-25,"Above Ground, Specific Location",15,in a tree,,,40.7026,-74.01613
+20.0,C-20-26,Specific Location,,on fence,,,40.702618,-74.016556
+21.0,D-21-01,Above Ground,10���12,,Staring,"Looks cold, not moving, lethargic",40.725307,-73.94279
+21.0,D-21-02,Above Ground,< 1,,Indifferent,,40.72551,-73.94361
+21.0,D-21-03,Ground Plane,,,Approaches,,40.72551,-73.94345
+21.0,D-21-04,Above Ground,15,,,,40.72548,-73.944115
+21.0,D-21-05,Above Ground,30,,,,40.72553,-73.94398
+21.0,D-21-06,Ground Plane,,,Approaches,We fed him!,40.725395,-73.94412
+21.0,D-21-07,Above Ground,30,,,,40.725414,-73.943985
+21.0,D-21-08,Ground Plane,,,,,40.724754,-73.94401
+21.0,D-21-09,Ground Plane,,,,,40.723972,-73.94385
+21.0,D-21-10,Ground Plane,,,,,40.72346,-73.943954
+21.0,D-21-11,Ground Plane,,,,,40.725372,-73.94365
+21.0,D-21-12,"Above Ground, Specific Location",15,by playground,Indifferent,,40.725365,-73.94351
+21.0,D-21-13,Ground Plane,,at Nassau (Avenue) / Henry (Street),Runs From,,40.725395,-73.9433
+21.0,D-21-14,Ground Plane,,,Indifferent,,40.725197,-73.943275
+22.0,D-22-01,Ground Plane,,,Indifferent,,40.72167,-73.95336
+22.0,D-22-02,Ground Plane,,,Approaches,,40.721767,-73.95319
+22.0,D-22-03,Ground Plane,,,Runs From,Ran in from baseball field,40.72166,-73.95328
+22.0,D-22-04,Above Ground,,,Runs From,,40.721855,-73.95314
+22.0,D-22-05,Ground Plane,,,Approaches,Running around,40.721943,-73.95295
+22.0,D-22-06,Above Ground,,,Approaches,Perched up ��� came close to us!,40.72204,-73.9528
+22.0,D-22-07,Ground Plane,,,Approaches,Skinny tail ��� was in the baseball field,40.72147,-73.95286
+22.0,D-22-08,Ground Plane,,,Runs From,,40.721714,-73.95305
+22.0,D-22-09,"Ground Plane, Specific Location",,In a trash and metal heap next to baseball field,Indifferent,,40.72193,-73.95315
+22.0,D-22-10,"Above Ground, Specific Location",12,in tree,Runs From,Ran up a tree,40.722282,-73.95312
+22.0,D-22-11,Ground Plane,,,Runs From,Ran out of park,40.7227,-73.9532
+22.0,D-22-12,Ground Plane,,,Indifferent,Birds walking nearby,40.72282,-73.952095
+22.0,D-22-13,Above Ground,,,Indifferent,Ran from ground to tree,40.722965,-73.95199
+22.0,D-22-14,"Above Ground, Specific Location",3,in short tree,Indifferent,,40.723137,-73.9518
+22.0,D-22-15,"Above Ground, Specific Location",,in tree,Indifferent,,40.723072,-73.9517
+22.0,D-22-16,"Ground Plane, Specific Location",,below park benches,Indifferent,Great jumper,40.723007,-73.95165
+22.0,D-22-17,Above Ground,9,,Indifferent,"Perched on branch, just hanging out",40.72296,-73.95175
+22.0,D-22-18,Above Ground,14,,Indifferent,Perched on branch,40.722603,-73.95145
+22.0,D-22-19,Above Ground,20,,,"Very small, climbed from one tree to another",40.72125,-73.95161
+22.0,D-22-20,Above Ground,75,,Indifferent,"Small, on tree on branch, two others below it",40.720608,-73.95277
+22.0,D-22-21,Above Ground,15,,Indifferent,"Started in middle of tree, started chasing others up in branches, jumped from branch to branch",40.72058,-73.9527
+22.0,D-22-22,Above Ground,20,,Indifferent,One of three together on a tree,40.72053,-73.95272
+22.0,D-22-23,Above Ground,20,,Indifferent,Jumped from one tree to next,40.72049,-73.952805
+22.0,D-22-24,Ground Plane,,,Indifferent,Dog chased it up a tree,40.72046,-73.95425
+22.0,D-22-25,Ground Plane,,,Skittish to humans,,40.720016,-73.953445
+22.0,D-22-26,Ground Plane,,,Indifferent,Fast,40.720024,-73.95365
+22.0,D-22-27,Ground Plane,,,Indifferent,Near a lot of little birds,40.719776,-73.952774
+22.0,D-22-28,Ground Plane,,,Indifferent,Running against fence,40.720116,-73.95277
+22.0,D-22-29,Ground Plane,,,Runs From,"Standing at base of tree, then climbed up",40.719944,-73.95251
+22.0,D-22-30,Ground Plane,,,Indifferent,,40.720448,-73.95252
+22.0,D-22-31,Ground Plane,,,Indifferent,Walking around bushes,40.720413,-73.952354
+22.0,D-22-32,Ground Plane,,,Indifferent,A little on the robust side,40.72037,-73.952324
+22.0,D-22-33,Ground Plane,,,Indifferent,Busy digging for something,40.72075,-73.95189
+22.0,D-22-34,Above Ground,15,,Indifferent,"It almost looks dead. Eyes open, curled up into itself in a nook in a tree with #35.",40.72118,-73.951256
+22.0,D-22-35,Above Ground,15,,,Curled up together with #34. One big furry ball of squirrel.,40.72118,-73.951256
+22.0,D-22-36,Ground Plane,,,,Pretty fat,40.72112,-73.95104
+22.0,D-22-37,Ground Plane,,,Indifferent,"Turning around, trying to eat",40.721313,-73.95094
+22.0,D-22-38,Ground Plane,,,,Sitting next to #39 and eating,40.721256,-73.9508
+22.0,D-22-39,Ground Plane,,,,Sitting next to #38 and eating,40.72122,-73.95077
+22.0,D-22-40,Ground Plane,,,Indifferent,Fluffy,40.721172,-73.95078
+22.0,D-22-41,Above Ground,,,Indifferent,Skinny,40.72116,-73.95073
+22.0,D-22-42,Above Ground,,,Indifferent,Clinging to tree,40.721123,-73.9508
+22.0,D-22-43,Above Ground,10,,Indifferent,Playing with another squirrel in a tree,40.721027,-73.95077
+22.0,D-22-44,Ground Plane,,,Runs From,Ran very quickly,40.719376,-73.952324
